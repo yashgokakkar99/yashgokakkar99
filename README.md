@@ -37,3 +37,21 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
+
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Turtle_race&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Etch-A-Sketch&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Coffee-Wending-Machine&show_icons=true&theme=great-gatsby"> 
+</div>
+ 
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/yashgokakkar99.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/yashgokakkar99"></img>
+</div>
