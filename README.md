@@ -23,6 +23,12 @@
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+---                                                                                                                                                     
+|<img src="https://github-readme-stats.vercel.app/api?username=yashgokakkar99&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spyware007"/>|
+|---|---|
+---
+
+
 ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/yash-ashok-gokakkar-426965202/" target="_blank">
@@ -38,6 +44,10 @@
 <a href="https://www.instagram.com/yashgokakkar99/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+ 
+ <a href="https://www.facebook.com/yash.gokakkar" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
+</a> 
 </div>
 
 ### Recent Projects 👨‍💻
