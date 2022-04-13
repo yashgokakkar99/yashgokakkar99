@@ -1,4 +1,4 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Yash Gokakkar](https://github.com/Spyware007) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Yash Gokakkar](https://github.com/yashgokakkar99) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align="center">Hi there, I'm Yash Gokakkar<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
