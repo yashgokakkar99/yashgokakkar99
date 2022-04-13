@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Yash Gokakkar</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">Hi there, I'm Yash Gokakkar<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 ![YASH ASHOK GOKAKKAR (TRUE)](https://user-images.githubusercontent.com/87797220/135843365-4fa169e0-2aa0-4b11-a0fb-c21b10c91524.gif)
 ## Most Used Languages 💻
