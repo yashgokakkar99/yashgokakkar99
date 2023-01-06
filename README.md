@@ -3,6 +3,7 @@
 ![YASH ASHOK GOKAKKAR (TRUE)](https://user-images.githubusercontent.com/87797220/135843365-4fa169e0-2aa0-4b11-a0fb-c21b10c91524.gif)
 ## Most Used Languages 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple)](https://github.com/yashgokakkar99)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgokakkar99)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
