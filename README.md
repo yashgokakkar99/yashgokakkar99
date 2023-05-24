@@ -54,7 +54,7 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Turtle_race&show_icons=true&theme=great-gatsby"> 
+<img src="https://github.com/yashgokakkar99/flipkart_MERN&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Etch-A-Sketch&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashgokakkar99&repo=Coffee-Wending-Machine&show_icons=true&theme=great-gatsby"> 
 </div>
