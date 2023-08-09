@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm YASH GOKAKKAR<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 
-https://github.com/yashgokakkar99/yashgokakkar99/assets/87797220/76b43a48-f5d4-411a-a6d5-92462d83d35a
+
 
 
 
