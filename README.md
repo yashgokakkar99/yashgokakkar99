@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm YASH GOKAKKAR<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
-![YASH ASHOK GOKAKKAR (TRUE)](https://user-images.githubusercontent.com/87797220/135843365-4fa169e0-2aa0-4b11-a0fb-c21b10c91524.gif)
+
+https://github.com/yashgokakkar99/yashgokakkar99/assets/87797220/76b43a48-f5d4-411a-a6d5-92462d83d35a
+
+
+
 ## Most Used Languages 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple)](https://github.com/yashgokakkar99)
 
