@@ -11,7 +11,11 @@
 
 
 ## Most Used Languages 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple)](https://github.com/yashgokakkar99)
+<div style="text-align: center;">
+  <a href="https://github.com/yashgokakkar99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple" alt="Top Langs" />
+  </a>
+</div>
 
 ## Skills
 <p align="center"> 
