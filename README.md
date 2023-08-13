@@ -13,9 +13,10 @@
 ## Most Used Languages 💻
 <p align="center">
   <a href="https://github.com/yashgokakkar99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple" alt="Top Langs" width="100%" />
   </a>
 </p>
+
 
 ## Skills
 <p align="center"> 
