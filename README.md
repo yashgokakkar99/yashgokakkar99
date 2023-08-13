@@ -38,8 +38,11 @@
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
----                                                                                                                                                     
-<img src="https://github-readme-stats.vercel.app/api?username=yashgokakkar99&&show_icons=true&count_private=true&include_all_commits=true"/>
+---    
+## Github stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgokakkar99&&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="60%" />
+</p>
 
 ---
 
