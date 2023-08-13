@@ -11,11 +11,11 @@
 
 
 ## Most Used Languages 💻
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/yashgokakkar99">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgokakkar99&layout=compact&theme=midnight-purple" alt="Top Langs" />
   </a>
-</div>
+</p>
 
 ## Skills
 <p align="center"> 
